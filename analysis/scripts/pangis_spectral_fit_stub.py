@@ -8,10 +8,11 @@ to manufacture “spectral modes” if you overfit noise.
 
 import numpy as np
 
+
 def log_periodic_mod(z, A, omega, phi):
     return 1.0 + A * np.cos(omega * np.log10(1.0 + z) + phi)
 
+
 if __name__ == "__main__":
-    # Skeleton only – fill with your own mock Pantheon+ residuals
     z = np.linspace(0.01, 1.5, 200)
     print("This is a stub. The crime is the overfitting, not this script.")
