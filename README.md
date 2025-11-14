@@ -62,41 +62,9 @@ Design brief for the infographic “Spectral Crimes of Pangis Cosmology” (layo
 analysis/pangis_param_comparison.csv
 Simple CSV comparing UFC parameter choices vs multi-probe reality:
 
-𝐻
-0
-∼
-81
-H 
-0
-​
- ∼81 vs 
-67
-–
-73
-67–73
-
-Ω
-𝑚
-∼
-0.02
-Ω 
-m
-​
- ∼0.02 vs 
-∼
-0.3
-∼0.3
-
-Δ
-log
-⁡
-10
-𝑧
-≈
-0.227
-Δlog 
-10
-​
+H0 ~ 81 km s^-1 Mpc^-1  vs  67–73 km s^-1 Mpc^-1
+Ωm ~ 0.02               vs  ~0.3
+Δlog10(z) ≈ 0.227
  z≈0.227 as visually-selected bump spacing.
 
 analysis/scripts/pangis_spectral_fit_stub.py
