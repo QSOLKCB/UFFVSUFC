@@ -1,0 +1,4 @@
+quantity,ufc_value,reference_range,comment
+H0_km_s_Mpc,81,"67-73","Inflated to support spectral wiggle"
+Omega_m,0.02,"~0.3","Too low to form observed structure"
+delta_log10_z,0.227,"n/a","Visually selected bump spacing"
