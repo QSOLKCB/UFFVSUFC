@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17611051.svg)](https://doi.org/10.5281/zenodo.17611051)
 # UFF vs UFC – Dial-Up Cosmology & Spectral Crimes
 
 This repository is a two-part forensic weapon:
