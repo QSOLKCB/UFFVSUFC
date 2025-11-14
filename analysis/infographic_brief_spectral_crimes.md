@@ -11,9 +11,13 @@ Goal: Turn the technical critique into a single-page visual “case file” that
 
 ## Layout Summary
 
-(1) Title bar with case ID `Δlog₁₀z ≈ 0.227`.  
-(2) Left: residual plot with three circled bumps (Exhibits A, B, C).  
-(3) Right: four “crime cards” (Witness Tampering, Evidence Overfitting, Parameter Laundering, Geometric Relapse).  
-(4) Bottom: parameter comparison table and verdict stamp: **SPECTRAL MISCONDUCT**.
+1. **Title bar** with case ID `Δlog₁₀z ≈ 0.227`.  
+2. **Left panel**: residual plot with three circled bumps (Exhibits A, B, C).  
+3. **Right panel**: four “crime cards”:
+   - Witness Tampering (H₀ ≈ 81)
+   - Evidence Overfitting (Δlog₁₀z ≈ 0.227 declared as “β-mode”)
+   - Parameter Laundering (Ωₘ ≈ 0.02)
+   - Geometric Relapse (Einstein-style curvature plus ringtone)  
+4. **Bottom**: parameter comparison table and verdict stamp: **SPECTRAL MISCONDUCT**.
 
-See `pangis_spectral_crimes.md` for the underlying text and equations.
+See `pangis_spectral_crimes.md` for the full text and equations backing the copy.
